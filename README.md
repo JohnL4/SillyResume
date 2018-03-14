@@ -39,4 +39,4 @@ Oh, and lists:
   * subitem 2(a)
   * subitem 2(b)
 
-My sooper-spiffy LayLeadership project: johnl4/LayLeadership#19
+My sooper-spiffy LayLeadership project: https://github.com/JohnL4/LayLeadership
